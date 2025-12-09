@@ -4,10 +4,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/fxshan/Data-Engineering-Capstone-Project.git">
-    <img src="images/hithere.gif" alt="Capstone Project" width="500px">
+    <img src="images/hithere.gif" alt="Capstone Project" width="400px">
   </a>
 
-  <h1>Data-Engineering-Capstone-Project</h1>
+  <h1>Data Engineering Capstone Project</h1>
 </div>
 
 Now that I’ve completed all the courses in the Data Engineering Professional Certificate program, the capstone project gives me an opportunity to demonstrate the practical, hands-on Data Engineering skills I’ve acquired.
