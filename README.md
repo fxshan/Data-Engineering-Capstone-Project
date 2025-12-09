@@ -16,13 +16,13 @@ Now that I’ve completed all the courses in the Data Engineering Professional C
 ## Introduction to Capstone Project
 As part of the capstone project, I would assume the role of the Associate Data Warehouse Engineer who has recently joined an e-commerce organization. I would be presented with a business challenge that requires building a data platform for retail data analytics. In this Capstone project, I should: 
 1. Design a data platform that uses MySQL as an OLTP database and MongoDB as a NoSQL database
-2. Design and implement a data warehouse and generate reports from the data
+2. Design and implement a data warehouse using PgAdmin and PostgreSQL and generate reports from the data
 3. Design a reporting dashboard that reflects the key metrics of the business
 4. Extract data from OLTP and NoSQL databases, transform it and load it into the data warehouse
 5. Create an ETL pipeline
 6. Create a Spark connection to the data warehouse and then deploy a machine learning model. 
 
-## Lab description
+## Lab Description
 The above tasks are carried out in the following six labs:  
 - [x] In Lab 1, I designed the OLTP database for an e-commerce website, populated the OLTP Database with the data provided, and automated the export of the daily incremental data into the data warehouse.  
 - [x] In Lab 2, I set up a NoSQL database to store the catalog data for an E-Commerce website, loaded the E-Commerce catalog data into the NoSQL database, and queried the E-Commerce catalog data in the NoSQL database.  
@@ -31,4 +31,5 @@ The above tasks are carried out in the following six labs:
 - [x] In Lab 5, I extracted data from an OLTP, NoSQL, and MongoDB databases into CSV format. I then transformed the OLTP data to suit the data warehouse schema, and then loaded the transformed data into the data warehouse. Finally, I verified that the data is loaded properly.  
 - [x] In the sixth and final Lab, I used my skills in Big Data Analytics to create a Spark connection to the data warehouse and then deployed a machine learning model on SparkML for making sales projections.
 
-Congratulations on completing this Capstone Project for the Data Warehouse Engineer Professional Certificate! :tada:
+## Lab Environment
+The Skills Network Labs Cloud IDE provides a hands-on environment for course and project related labs. It utilizes Theia, an open-source IDE (Integrated Development Environment) platform, that can be run on desktop or on the cloud. To complete these labs, we will be using the Cloud IDE based on Theia and Mongodb running in a Docker container.  
